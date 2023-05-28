@@ -1,4 +1,4 @@
-# tes_cli
+# Flutter GET_CLI
 
 A new Flutter project.
 
